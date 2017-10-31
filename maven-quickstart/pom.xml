@@ -7,10 +7,7 @@
   <version>1.1</version>
   <packaging>jar</packaging>
 
-  <name>maven-archetype-quickstart</name>
-  <url>http://maven.apache.org</url>
-
-  <properties>
+   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
 
